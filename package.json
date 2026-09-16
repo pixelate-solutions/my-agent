@@ -1,0 +1,7 @@
+{
+  "name": "tip-calculator",
+  "version": "1.0.0",
+  "description": "Split a restaurant bill and work out the tip.",
+  "type": "module",
+  "scripts": { "test": "node --test" }
+}
