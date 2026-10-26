@@ -1,0 +1,10 @@
+
+
+# Local credentials, agent state, and generated files
+.env
+.env.*
+!.env.example
+.relay/
+.codex/
+.DS_Store
+node_modules/
